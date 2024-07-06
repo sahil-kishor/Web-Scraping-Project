@@ -2,13 +2,15 @@
 
 This project aims to design a specialized tool that extracts and analyzes data science job listings from the TimesJob platform. The focus is on crafting a precise web scraping solution to collect crucial details such as job titles, company names, experience requirements, salary ranges, and locations.
 
+# Web Scraping
+
 ## Key Tasks
 
 ### 1. Source Selection 🎯
 The chosen online platform for data science job listings is TimesJob. This platform offers a wide range of job listings in the data science field, making it an ideal source for this project.
-**TimesJob** : 
 
-https://www.timesjobs.com/
+
+**TimesJob** : https://www.timesjobs.com/
 
 ### 2. Web Scraping Precision ⚙️
 A targeted web scraping mechanism was engineered using BeautifulSoup and Requests libraries. The scraping process was designed to ensure accuracy and completeness in extracting the required information from job listings on TimesJob.

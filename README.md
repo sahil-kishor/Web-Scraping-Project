@@ -4,6 +4,9 @@ This project aims to design a specialized tool that extracts and analyzes data s
 
 # Web Scraping
 
+![1595889011048](https://github.com/sahil-kishor/Web-Scraping-Project/assets/159517524/fa989fb3-039b-4c79-8874-8a8d3d30a421)
+
+
 ## Key Tasks
 
 ### 1. Source Selection 🎯

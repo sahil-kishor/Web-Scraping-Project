@@ -34,7 +34,7 @@ Tools were developed to analyze the gathered data and generate insights. The ana
 ### 6. Visualization 📈
 Visual representations such as charts and graphs were created using Matplotlib and Seaborn to communicate the insights effectively. These visuals provide a user-friendly interpretation of the data, making it easier to understand the job market trends in data science.
 
-## Detailed Steps
+## Tasks Performed
 
 ### Importing Libraries
 Essential libraries such as `requests`, `beautifulsoup4`, `pandas`, `matplotlib`, `seaborn`, and `wordcloud` were imported to handle web scraping, data manipulation, and visualization tasks.
